@@ -1,0 +1,36 @@
+.h7 {
+    font-family: "The Horizontal";
+    color: #ED9690;
+    font-size: 200px;
+    opacity: 20%;
+    letter-spacing: 18px;
+    margin-left: 5%;
+    margin-bottom: -40px;
+}
+
+.zona_texto {
+    justify-content: center;
+    margin: auto;
+    max-width: 1200px;
+}
+
+.row {
+    max-width: 100%;
+    display: flex;
+}
+
+.Col1 {
+    padding-right: 10px;
+    text-align: center;
+    width: 40%;
+}
+
+.Col2 {
+    width: 40%;
+}
+
+.Col2 h2 {
+    margin-top: -40px;
+    font-size: 20px;
+    color: black;
+}

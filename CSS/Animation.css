@@ -1,0 +1,63 @@
+    .Navdown {
+        -webkit-animation-duration: 1s;
+        animation-duration: 1s;
+        animation-fill-mode: both;
+        -webkit-animation-fill-mode: both;
+        animation-name: Navdown;
+        -webkit-animation-name: Navdown;
+    }
+    
+    @keyframes Navdown {
+        from {
+            opacity: 0;
+            -webkit-transform: translate3d(0, -100%, 0);
+            transform: translate3d(0, -100%, 0);
+        }
+        to {
+            opacity: 1;
+            -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+        }
+    }
+    
+    .buttonshow {
+        -webkit-animation-duration: 2.5s;
+        animation-duration: 2.5s;
+        animation-fill-mode: both;
+        -webkit-animation-fill-mode: both;
+        animation-name: buttonshow;
+        -webkit-animation-name: buttonshow;
+        animation-iteration-count: 3;
+        -webkit-animation-iteration-count: 3;
+    }
+    
+    @keyframes buttonshow {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+    
+    .Col1 {
+        -webkit-animation-duration: 1s;
+        animation-duration: 1s;
+        animation-fill-mode: both;
+        -webkit-animation-fill-mode: both;
+        animation-name: Col1;
+        -webkit-animation-name: Col1;
+    }
+    
+    @keyframes Col1 {
+        from {
+            opacity: 0;
+            -webkit-transform: translate3d(0, 100%, 0);
+            transform: translate3d(0, 100%, 0);
+        }
+        to {
+            opacity: 1;
+            -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+        }
+    }
