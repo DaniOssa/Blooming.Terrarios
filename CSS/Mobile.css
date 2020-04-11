@@ -1,0 +1,274 @@
+    @media (max-width: 1000px) {
+        .h7 {
+            font-size: 150px;
+        }
+    }
+    
+    @media (max-width: 900px) {
+        .zona3 {
+            height: auto;
+        }
+        h1 {
+            font-size: 50px;
+            letter-spacing: 3px;
+        }
+        h2 {
+            font-size: 18px;
+        }
+        .medio h3 {
+            margin-top: 60px;
+            margin-bottom: 0px;
+        }
+        h3 {
+            font-size: 40px;
+            letter-spacing: 3px;
+        }
+        .zona4 {
+            height: 250px;
+        }
+        .zona4 .row {
+            max-height: 250px;
+        }
+        .izquierda {
+            height: 230px;
+        }
+        .izquierda a h4 {
+            margin: 30px;
+            padding: 10px;
+            margin-top: 100px;
+        }
+        .medio {
+            height: 230px;
+        }
+        .derecha {
+            height: 230px;
+        }
+        .derecha a h4 {
+            margin: 30px;
+            padding: 10px;
+            margin-top: 100px;
+        }
+        .zona5 .titulo h2 {
+            padding-top: 30px;
+            letter-spacing: 3px;
+            margin-bottom: 15px;
+        }
+        .logo-final {
+            padding: 5px;
+        }
+        .redes a {
+            margin-left: 15px;
+            margin-right: 15px;
+        }
+        .redes a img {
+            height: 30px;
+        }
+        h6 {
+            font-size: 18px;
+            letter-spacing: 3px;
+        }
+        .h7 {
+            font-size: 140px;
+            letter-spacing: 12px;
+            margin-bottom: -80px;
+        }
+        .Col2 {
+            width: 50%;
+        }
+        .Col2 h2 {
+            margin-top: -10px;
+            font-size: 18px;
+        }
+    }
+    
+    @media (max-width: 700px) {
+        nav {
+            padding: 15px;
+            font-size: 15px;
+        }
+        .zona2 {
+            height: 150px;
+        }
+        .zona2 img {
+            display: block;
+            margin: auto;
+            max-height: 150px;
+            padding-top: 50px;
+        }
+        .zona3 {
+            min-height: 100px;
+            max-height: auto;
+        }
+        h1 {
+            font-size: 35px;
+            margin-top: 10px;
+            letter-spacing: 3px;
+        }
+        h2 {
+            font-size: 14px;
+        }
+        .zona4 {
+            height: 180px;
+        }
+        .zona4 .row {
+            height: 180px;
+        }
+        .izquierda {
+            height: 150px;
+        }
+        .medio {
+            height: 150px;
+        }
+        .derecha {
+            height: 150px;
+        }
+        .izquierda a h4 {
+            margin: 20px;
+            padding: 5px;
+            margin-top: 60px;
+        }
+        .derecha a h4 {
+            margin: 20px;
+            padding: 5px;
+            margin-top: 60px;
+        }
+        h3 {
+            font-size: 30px;
+            letter-spacing: 3px;
+        }
+        h4 {
+            font-size: 8px;
+            letter-spacing: 2px;
+        }
+        .medio h3 {
+            margin-top: 40px;
+            margin-bottom: 0px;
+        }
+        .zona5 .titulo h2 {
+            padding-top: 30px;
+            letter-spacing: 3px;
+            margin-bottom: 15px;
+        }
+        .logo-final {
+            padding: 5px;
+        }
+        .redes a {
+            margin-left: 15px;
+            margin-right: 15px;
+        }
+        .redes a img {
+            height: 20px;
+        }
+        h6 {
+            font-size: 18px;
+            letter-spacing: 2px;
+        }
+        .column1 {
+            padding: 20px;
+            width: 50%;
+        }
+        .h7 {
+            font-size: 100px;
+            letter-spacing: 10px;
+            margin-bottom: 0px;
+        }
+        .Col1 img {
+            max-width: 70%;
+        }
+        .Col2 {
+            width: 50%;
+        }
+        .Col2 h2 {
+            margin-top: -60px;
+            font-size: 15px;
+        }
+    }
+    
+    @media (max-width: 550px) {
+        .zona2 {
+            max-height: 150px;
+        }
+        .zona2 img {
+            display: block;
+            margin: auto;
+            max-height: 120px;
+            padding-top: 50px;
+        }
+        .column1 {
+            margin: auto;
+            padding: 20px;
+            min-width: 300px;
+        }
+        .zona4 {
+            height: 150px;
+        }
+        .zona4 .row {
+            display: flex;
+            height: 150px;
+        }
+        .izquierda {
+            height: 130px;
+        }
+        .izquierda a h4 {
+            margin: auto;
+            margin-top: 50px;
+            padding: 5px;
+        }
+        .medio {
+            height: 130px;
+        }
+        .medio h3 {
+            margin-top: 30px;
+            font-size: 25px;
+        }
+        .derecha {
+            height: 130px;
+        }
+        .derecha a h4 {
+            margin: auto;
+            margin-top: 50px;
+            padding: 5px;
+        }
+        .zona_texto .row {
+            display: flex;
+        }
+        .h7 {
+            font-size: 90px;
+            letter-spacing: 5px;
+            margin-bottom: 0px;
+        }
+        .Col1 img {
+            image-resolution: 100%;
+            max-width: 60%;
+        }
+        .Col2 {
+            width: 50%;
+        }
+        .Col2 h2 {
+            font-size: 12px;
+        }
+    }
+    
+    @media (max-width: 450px) {
+        nav {
+            padding: 10px;
+            font-size: 12px;
+        }
+        h1 {
+            font-size: 30px;
+            margin-top: 10px;
+            letter-spacing: 3px;
+        }
+        h2 {
+            font-size: 10px;
+        }
+        .h7 {
+            font-size: 70px;
+            letter-spacing: 5px;
+            margin-bottom: 20px;
+        }
+        .Col2 h2 {
+            margin-top: -60px;
+            font-size: 10px;
+        }
+    }
