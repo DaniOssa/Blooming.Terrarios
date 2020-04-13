@@ -1,0 +1,60 @@
+:root {
+    --verde: #32453F;
+    --azul: #224F53;
+    --rosado-fuerte: #ED9690;
+    --rosado-claro: #FAE8EB;
+}
+
+html,
+body {
+    padding: 0px;
+    margin: 0px;
+    font-size: 10PX;
+    font-family: "Alcubierre";
+}
+
+@font-face {
+    font-family: "Alcubierre";
+    src: url(Fuentes/Alcubierre.otf)
+}
+
+@font-face {
+    font-family: "The Horizontal";
+    src: url(Fuentes/The\ Horizontal.ttf)
+}
+
+h5 {
+    padding: 20px;
+    color: var(--verde);
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 15px;
+}
+
+h6 {
+    padding: 10px;
+    color: gray;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 4px;
+    margin-bottom: 0px;
+}
+
+.container {
+    justify-content: center;
+    margin: auto;
+    max-width: 1200px;
+}
+
+.row {
+    display: flex;
+}
+
+.column1 {
+    padding: 20px;
+    width: 25%;
+}
+
+.column1 img {
+    width: 100%;
+}
